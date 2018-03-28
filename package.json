@@ -1,0 +1,23 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "a leaerning app for commit with node and gitlab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"todo tests with jenkins, or gitlab maybe\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemma731/learning.git"
+  },
+  "keywords": [
+    "learning",
+    "app"
+  ],
+  "author": "hemma731",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemma731/learning/issues"
+  },
+  "homepage": "https://github.com/hemma731/learning#readme"
+}
